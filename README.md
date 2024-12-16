@@ -30,3 +30,11 @@ Un progetto Arduino per monitorare la temperatura utilizzando un sensore (es. LM
 1. Clona il repository:
    ```bash
    git clone https://github.com/KaISBC/arduino-temp-monitor.git
+
+## Autore
+Creato da [KaISBC](https://github.com/KaISBC).
+
+### Contatti
+- **GitHub**: [https://github.com/KaISBC](https://github.com/KaISBC)
+- **Email**: [staff@sbcniumidia.com](mailto:staff@sbcniumidia.com)
+- **LinkedIn**: [https://www.linkedin.com/in/sbcniumidia/](https://www.linkedin.com/in/sbcniumidia/)
